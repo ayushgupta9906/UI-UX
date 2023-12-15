@@ -10,13 +10,14 @@ https://github.com/ayushgupta9906/UI-UX/assets/92868752/17377f90-ca11-4402-8ad0-
 
 _______________________________________________________________________________________________________________________________________________________
 
-- 3D Carousel Slider Prototype
-[![Watch the Video](path/to/your/video.mp4)
-
+- 3D Carousel Slider 1 Prototype
 ![Project Logo](1.png)
 ![Project Logo](2.png)
 ![Project Logo](3.png)
+_______________________________________________________________________________________________________________________________________________________
 
+3D Carousel Slider 2 Prototype
+https://github.com/ayushgupta9906/UI-UX/assets/92868752/df3a7887-c8e3-4cfe-8929-6b5ab530fd61
 _______________________________________________________________________________________________________________________________________________________
 
 - SAE ZHCET Website (https://ayushgupta9906.github.io/)
