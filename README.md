@@ -25,7 +25,7 @@ For Code an Github Repo- Forntend and Backend(https://github.com/ayushgupta9906/
 ![Project Logo](Frame-1.png)
 ![Project Logo](Frame.png)
 
-Visit My Awesome Project(https://saezhcet.org/)
+
 
 
 
