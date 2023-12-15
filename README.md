@@ -4,20 +4,12 @@
 
 _______________________________________________________________________________________________________________________________________________________
 HackerRank UI
-![Project Logo](Hackerank.png)
-
-
-
-
-
-
-
-
-
+![Project Logo](Hackerrank.png)
 _______________________________________________________________________________________________________________________________________________________
 
 - 3D Carousel Slider Prototype
-![Project Logo](Vedio1.mp4)
+[![Watch the Video](path/to/your/video.mp4)
+
 ![Project Logo](1.png)
 ![Project Logo](2.png)
 ![Project Logo](3.png)
