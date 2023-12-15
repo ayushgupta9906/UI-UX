@@ -7,8 +7,9 @@
 ![Project Logo](2.png)
 ![Project Logo](3.png)
 
+__________________________________________________________________________________________________________________________________________________
 
- SAE ZHCET Website (https://ayushgupta9906.github.io/)
+- SAE ZHCET Website (https://ayushgupta9906.github.io/)
  
  Figma links for the UI/UX of SAE ZHCET WEBSITE
  
@@ -24,24 +25,6 @@ For Code an Github Repo- Forntend and Backend(https://github.com/ayushgupta9906/
 ![Project Logo](Main.png)
 ![Project Logo](Frame-1.png)
 ![Project Logo](Frame.png)
-
-
-
-
-
-
-
-
-![Project Logo](ChatAppUI.png)
-
-
-
-
-
-
-
-
-
 
 
 
